@@ -83,3 +83,4 @@
 [feature/copytrade-hooks] Wire env-based config for API keys
 [feature/copytrade-hooks] Document deployment variables
 [feature/copytrade-hooks] Harden validation on signed payloads
+[feature/copytrade-hooks] Document deployment variables

@@ -79,3 +79,4 @@
 [develop] Refine spread calculation for crossed books
 [develop] Debounce follower wallet updates
 [feature/risk-and-circuit-breakers] Scaffold copy-trade listener module
+[feature/risk-and-circuit-breakers] Add integration test for order placement

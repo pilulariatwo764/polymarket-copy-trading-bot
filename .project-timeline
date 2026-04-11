@@ -76,3 +76,4 @@
 [feature/copytrade-hooks] Add circuit-breaker hook for halt signal
 [develop] Debounce follower wallet updates
 [develop] Scaffold copy-trade listener module
+[develop] Refine spread calculation for crossed books

